@@ -1,0 +1,97 @@
+.product-description{
+    padding: 50px;
+    font-size: 30px;
+    color: #b76e79;
+    }
+    .product-name{
+        font-style: italic;
+        font-weight: lighter;
+    }
+    .product-price{
+        font-weight: bolder;
+    }
+    .column {
+        float: left;
+        width: 33.33%;
+      }
+      
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+    h4{
+        font-weight: lighter;
+    }
+    .qty{
+        background-color: #b76e79;
+        color: white;
+        border: #b76e79;
+    }
+    label{
+        font-size: 20px;
+    }
+    .btn{
+        background-color: #b76e79;
+        color: white;
+        font-size: 20px;
+        font-style: oblique;
+    }
+    .btn:hover{
+        background-color: black;
+    }
+    .card {
+        width: 900px;
+        height: 1200px;
+        background: url("https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F9f%2F42%2F9f421026bb9c6131690e7a4ee6e19a84fe410749.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_decorations_vases%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]") no-repeat;
+        display: inline-block;
+    }
+    .card:hover {
+        background: url("https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F19%2F68%2F1968f03a7a7e7e89a594b8b88b373ada12d4a9e7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_decorations_vases%5D%2Ctype%5BENVIRONMENT%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]") no-repeat;
+    }
+    .blanket {
+        width: 900px;
+        height: 1200px;
+        background: url("https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd4%2F26%2Fd4262e6aebe3a1d2a44314a28b8a7f6e86b199d8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_blankets_blankets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]") no-repeat;
+        display: inline-block;
+    }
+    .blanket:hover {
+        background: url("https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdc%2F20%2Fdc20475fce4621a7cb7bc0ffada9bb5c6bd627ee.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_blankets_blankets%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]") no-repeat;
+    }
+    .vase {
+        width: 900px;
+        height: 1200px;
+        background: url("https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1f%2Fd2%2F1fd24386ee8b1b149e0ad3e8f8e655031b948998.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]") no-repeat;
+        display: inline-block;
+    }
+    .vase:hover {
+        background: url("https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F14%2Ff9%2F14f9d67d502cccb2474a1a3787fbea649a412f5a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BENVIRONMENT%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]") no-repeat;
+    }
+    .duvet {
+        width: 900px;
+        height: 1200px;
+        background: url("https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F47%2F7a%2F477afb914d089e00b9afc47aeec36851a2e2f8eb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_bedlinen_duvetscoversets_double%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]") no-repeat;
+        display: inline-block;
+    }
+    .duvet:hover {
+        background: url("https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fcf%2F4b%2Fcf4be17d377df2413f4574cdc0a5d9b0f1610dec.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_bedlinen_duvetscoversets_double%5D%2Ctype%5BENVIRONMENT%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]") no-repeat;
+    }
+    .cushion {
+        width: 900px;
+        height: 1200px;
+        background: url("https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4e%2F8e%2F4e8e9a97d988be21d4088b34d04f8b73c91c15d4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_cushions_cushioncover%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]") no-repeat;
+        display: inline-block;
+    }
+    .cushion:hover {
+        background: url("https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7e%2F19%2F7e19cca992f9a1d9cf41b56b3956277cbb6eb097.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_cushions_cushioncover%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]") no-repeat;
+    }
+    .candle {
+        width: 900px;
+        height: 1200px;
+        background: url("https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F01%2F98%2F019834904ad0e4ab2986cd22d925f95f9774bb75.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_decorations_candleholders%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]") no-repeat;
+        display: inline-block;
+    }
+    .candle:hover {
+        background: url("https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F93%2F52%2F93526711f23087c1fd6779bf79bd36c88f2e79b1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_furnitures%5D%2Ctype%5BENVIRONMENT%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]") no-repeat;
+    }
